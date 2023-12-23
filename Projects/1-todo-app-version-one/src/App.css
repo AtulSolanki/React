@@ -1,0 +1,21 @@
+h1 {
+  /* font-weight: 700; */
+  margin: 10px;
+  font-size: 50px;
+  margin-bottom: 25px;
+}
+.col-6{
+  color: aqua;
+}
+input {
+  width: 100%;
+}
+.items-container{
+  text-align: left;
+}
+.kg-button{
+  min-width: 80px;
+}
+.kg-row{
+  margin: 10px 5px;
+}
