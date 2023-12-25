@@ -9,10 +9,9 @@ function App() {
       <AppName />
       <AddTodo />
       <div className="items-container">
-          <TodoList1 />
-          <TodoList2 /> 
+        <TodoList1 />
+        <TodoList2 />
       </div>
-      
     </center>
   );
 }
